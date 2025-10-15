@@ -10,7 +10,7 @@ Python Full Stack Developer
 - How to reach me:
   
 <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriroshan-m)
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sriroshanro08@)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sriroshanro08@gmail.com)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000">

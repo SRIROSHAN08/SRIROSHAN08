@@ -5,7 +5,7 @@ Python Full Stack Developer
 
 - Here's my [portfolio](https://)
 
-- I'm Currentlt learning DSA
+- I'm Currently learning DSA
 - I'm Looking for a Job as Software developer.
 - How to reach me:
   

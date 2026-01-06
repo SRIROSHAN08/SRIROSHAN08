@@ -3,7 +3,6 @@
 Python Full Stack Developer
 <img align="right" width="370" height="290" src="https://i.gifer.com/JXA0.gif">
 
-- Here's my [portfolio](https://)
 
 - I'm Currently learning DSA
 - I'm Looking for a Job as Software developer.
